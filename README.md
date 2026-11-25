@@ -3,7 +3,7 @@
 # How to use ArcSwiper
 
 
-ArcSwiper is a HarmonyOS Next wearable app that demonstrates the usage of the ArcSwiper component for circular screens.
+ArcSwiper is a HarmonyOS wearable app that demonstrates the usage of the ArcSwiper component for circular screens.
 The project shows how to build a carousel-like swiper with child components arranged in an arc, suitable for watches and other round devices.
 
 # Preview
